@@ -12,12 +12,12 @@
 
 ### Screenshot
 
-![](/screenshot.png)
+![](screenshot.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/clucksupremacy/qr-code)
-- Live Site URL: [Add live site URL here](https://cluck-qr-code.netlify.app/)
+- Solution URL: [https://github.com/clucksupremacy/qr-code](https://github.com/clucksupremacy/qr-code)
+- Live Site URL: [https://cluck-qr-code.netlify.app/](https://cluck-qr-code.netlify.app/)
 
 ## My process
 
@@ -32,8 +32,8 @@
 
 This project was a good way to review some basics while getting accustomed to the Frontend Mentor project workflow. With most of the planning done on paper, working on the project was straightforward. The only real hiccup I encountered was wrangling with extra white space, which I remedied with a simple "box-sizing: border-box" to account for padding. Here are some pictures of the issue before fixing: 
 
-![](/debug.png)
-![](/debug-inspect.png)
+![](debug.png)
+![](debug-inspect.png)
 
 ## Author
 

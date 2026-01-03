@@ -12,7 +12,7 @@
 
 ### Screenshot
 
-![](screenshot.png)
+![](qr-code-component-main/screenshot.png)
 
 ### Links
 
@@ -32,8 +32,8 @@
 
 This project was a good way to review some basics while getting accustomed to the Frontend Mentor project workflow. With most of the planning done on paper, working on the project was straightforward. The only real hiccup I encountered was wrangling with extra white space, which I remedied with a simple "box-sizing: border-box" to account for padding. Here are some pictures of the issue before fixing: 
 
-![](debug.png)
-![](debug-inspect.png)
+![](qr-code-component-main/debug.png)
+![](qr-code-component-main/debug-inspect.png)
 
 ## Author
 

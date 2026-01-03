@@ -16,6 +16,4 @@
 .prettierignore
 
 # Instructions and help files
-/README-template.md
-/README.md
 /style-guide.md

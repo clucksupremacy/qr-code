@@ -26,6 +26,7 @@
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
+- Figma
 - Mobile-first workflow
 
 ### What I learned
